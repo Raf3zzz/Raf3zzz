@@ -3,14 +3,15 @@
 
 WebDeveloper 
 
-## 🌟 My Skills
-| Language       | Icon                                                                                  |
-|----------------|---------------------------------------------------------------------------------------|
-| JavaScript     | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
-| TypeScript     | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
-| Python         | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)             |
-| C              | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)                             |
-
+## 📬 Get in Touch
+<p align="left">
+  <a href="https://discordapp.com/users/raffreddat0">
+    <img src="https://img.icons8.com/color/48/000000/discord-new-logo.png" alt="Discord" height="40"/>
+  </a>
+  <a href="https://t.me/raffreddat0">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" height="40"/>
+  </a>
+</p>
 
 ## INFO
 - **Discord**: Raf3z
