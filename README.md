@@ -3,6 +3,10 @@
 
 WebDeveloper 
 
+
+<img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" alt="Coding" />
+
+
 ## 📬 Get in Touch
 <p align="left">
   <a href="https://discordapp.com/users/raffreddat0">
@@ -12,6 +16,8 @@ WebDeveloper
     <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram" height="40"/>
   </a>
 </p>
+
+
 
 ## INFO
 - **Discord**: Raf3z
