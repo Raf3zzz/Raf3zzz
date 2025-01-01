@@ -14,10 +14,14 @@ WebDeveloper
 </p>
 
 ## 📬 SKILL
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML](<img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-1.png" alt="HTML" height="40" />)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+<p align="left">
+  <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-1.png" alt="HTML" height="40" />
+  <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" alt="CSS" height="40" />
+  <img src="https://logos-download.com/wp-content/uploads/2019/01/JavaScript_Logo.png" alt="JavaScript" height="40" />
+  <img src="https://brandlogos.net/wp-content/uploads/2021/09/java-logo.png" alt="Java" height="40" />
+  <img src="https://pngimg.com/uploads/php/php_PNG50.png" alt="PHP" height="40" />
+  <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="Python" height="40" />
+</p>
 
 
 ```javascript
