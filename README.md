@@ -1,16 +1,16 @@
-## Hi there 👋
+# Raffreddat0
+![Profile Views](https://komarev.com/ghpvc/?username=Raffreddat0&color=blue)
 
-<!--
-**Raf3zzz/Raf3zzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+17 years old developer from Italy 🇮🇹  
+Passionate about coding, especially in **JavaScript**, **Python**, **TypeScript**, and **C**.
 
-Here are some ideas to get you started:
+## My Skills
+- Programming: `JavaScript`, `Python`, `TypeScript`, `C`
+- Tools: `Git`, `VS Code`, `Linux`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My GitHub Stats
+![Raffreddat0's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Raffreddat0&show_icons=true&theme=dark)
+
+## Get in Touch
+- **Discord**: Raffreddat0
+- **Telegram**: [@raffreddat0](https://t.me/raffreddat0)
