@@ -17,7 +17,7 @@ WebDeveloper
 <p align="left">
   <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-1.png" alt="HTML" height="40" />
   <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" alt="CSS" height="40" />
-  [<img src="[https://image.freepik.com/free-icon/javascript_919828.jpg](https://ibb.co/4pmfrgQ)" alt="JavaScript" height="40" />](https://ibb.co/4pmfrgQ)
+  <img src="[https://image.freepik.com/free-icon/javascript_919828.jpg](https://ibb.co/4pmfrgQ)" alt="JavaScript" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="40" />
   <img src="https://pngimg.com/uploads/php/php_PNG50.png" alt="PHP" height="50" />
   <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="Python" height="40" />
