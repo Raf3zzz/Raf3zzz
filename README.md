@@ -3,9 +3,14 @@
 
 WebDeveloper 
 
-## Skills
-- Programming: `Java`, `Html/Css`, `JavaScript`, `Python3`, `PHP`
-- Tools: `ArchLinux`, `VS Code`, `Git`
+## 🌟 My Skills
+| Language       | Icon                                                                                  |
+|----------------|---------------------------------------------------------------------------------------|
+| JavaScript     | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) |
+| TypeScript     | ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) |
+| Python         | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)             |
+| C              | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)                             |
+
 
 ## INFO
 - **Discord**: Raf3z
