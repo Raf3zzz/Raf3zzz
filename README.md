@@ -9,3 +9,20 @@ Passionate about coding, especially in **hrml**, **
 
 ## Get in Touch
 - **Discord**: Raf3zzz
+
+class Raffreddat0 extends Profile {
+    constructor() {
+        this.name = "Giovanni";
+        this.username = "Raffreddat0";
+        this.location = "Italy";
+        this.languages = ["JavaScript", "TypeScript", "Python", "C"];
+        this.discord = "raffreddat0";
+        this.telegram = "raffreddat0";
+    }
+
+    name() {
+        return this.name;
+    }
+}
+
+const me = new Raffreddat0();
