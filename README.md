@@ -11,14 +11,14 @@ Passionate about coding, especially in **hrml**, **
 - **Discord**: Raf3zzz
 
 ```javascript
-class Raffreddat0 extends Profile {
+class Raf3z Profile {
     constructor() {
-        this.name = "Giovanni";
-        this.username = "Raffreddat0";
+        this.name = "Raffaele";
+        this.username = "Raf3z";
         this.location = "Italy";
-        this.languages = ["JavaScript", "TypeScript", "Python", "C"];
-        this.discord = "raffreddat0";
-        this.telegram = "raffreddat0";
+        this.languages = ["Html/Css", "JavaScript", "Python", "Java"];
+        this.discord = "Raf3z";
+        this.server = "StarMc";
     }
 
     name() {
@@ -26,4 +26,4 @@ class Raffreddat0 extends Profile {
     }
 }
 
-const me = new Raffreddat0();
+const me = new Raf3z();
