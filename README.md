@@ -1,4 +1,4 @@
-# Raf3zzz
+# Raf3z
 ![Profile Views](https://komarev.com/ghpvc/?username=Raffreddat0&color=blue)
 
 WebDeveloper 
@@ -8,7 +8,7 @@ WebDeveloper
 - Tools: `ArchLinux`, `VS Code`, `Git`
 
 ## INFO
-- **Discord**: Raf3zzz
+- **Discord**: Raf3z
 
 ```javascript
 class Raf3z Profile {
