@@ -17,14 +17,11 @@ WebDeveloper
 <p align="left">
   <img src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-1.png" alt="HTML" height="40" />
   <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" alt="CSS" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/JavaScript-logo.png" alt="JavaScript" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/JavaScript_logo_2.svg" alt="JavaScript" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" height="40" />
   <img src="https://pngimg.com/uploads/php/php_PNG50.png" alt="PHP" height="40" />
   <img src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png" alt="Python" height="40" />
 </p>
-
-
-
 
 ```javascript
 class Raf3z Profile {
