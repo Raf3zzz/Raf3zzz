@@ -1,13 +1,13 @@
 # Raf3zzz
 ![Profile Views](https://komarev.com/ghpvc/?username=Raffreddat0&color=blue)
 
-Passionate about coding, especially in **hrml**, **
+WebDeveloper 
 
-## My Skills
-- Programming: `JavaScript`, `Python`, `TypeScript`, `C`
-- Tools: `Git`, `VS Code`, `Linux`
+## Skills
+- Programming: `Java`, `Html/Css`, `JavaScript`, `Python3`, `PHP`
+- Tools: `ArchLinux`, `VS Code`, `Git`
 
-## Get in Touch
+## INFO
 - **Discord**: Raf3zzz
 
 ```javascript
@@ -16,7 +16,7 @@ class Raf3z Profile {
         this.name = "Raffaele";
         this.username = "Raf3z";
         this.location = "Italy";
-        this.languages = ["Html/Css", "JavaScript", "Python", "Java"];
+        this.languages = ["Html/Css", "JavaScript", "Python", "Java", "PHP"];
         this.discord = "Raf3z";
         this.server = "StarMc";
     }
