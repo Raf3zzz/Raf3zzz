@@ -31,7 +31,6 @@ class Raf3z Profile {
         this.location = "Italy";
         this.languages = ["Html/Css", "JavaScript", "Python", "Java", "PHP"];
         this.discord = "Raf3z";
-        this.server = "StarMc";
     }
 
     name() {
